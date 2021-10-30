@@ -1,6 +1,4 @@
-   
-   
-   
+     
    $(function(){
         $('#metamorphose').on('click',function(){
 
@@ -24,4 +22,3 @@
             location.reload(true);
         });
    });
-
